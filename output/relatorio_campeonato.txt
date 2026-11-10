@@ -1,0 +1,239 @@
+====== RELATORIO DO CAMPEONATO ======
+
+====== RELATORIO DO PILOTO ======
+Numero: 46
+Nome: Ian
+Nacionalidade: Brasil
+
+------ MOTO ------
+Fabricante: Honda
+Modelo: RC213V
+Cilindrada: 1000 cc
+
+------ CORRIDAS ------
+
+Corrida 1:
+Circuito: Interlagos
+Pais: Brasil
+Km da pista: 4.31 km
+Posicao: 1
+Melhor tempo: 91.45
+Velocidade media: 178.50 km/h
+Pontos: 25
+
+Corrida 2:
+Circuito: Mugello
+Pais: Italia
+Km da pista: 5.25 km
+Posicao: 3
+Melhor tempo: 88.72
+Velocidade media: 181.20 km/h
+Pontos: 16
+
+Corrida 3:
+Circuito: Jerez
+Pais: Espanha
+Km da pista: 4.42 km
+Posicao: 2
+Melhor tempo: 94.31
+Velocidade media: 176.80 km/h
+Pontos: 20
+
+Corrida 4:
+Circuito: Silverstone
+Pais: Inglaterra
+Km da pista: 5.89 km
+Posicao: 5
+Melhor tempo: 97.25
+Velocidade media: 174.60 km/h
+Pontos: 11
+
+------ DESEMPENHO ------
+Corridas disputadas: 4
+Pontos totais: 72
+Melhor posicao: 1
+Maior velocidade: 181.20 km/h
+Vitorias: 1
+Podios: 3
+Velocidade media da temporada: 177.77 km/h
+
+====== RELATORIO DO PILOTO ======
+Numero: 12
+Nome: Carlos
+Nacionalidade: Espanha
+
+------ MOTO ------
+Fabricante: Ducati
+Modelo: Desmosedici
+Cilindrada: 1000 cc
+
+------ CORRIDAS ------
+
+Corrida 1:
+Circuito: Interlagos
+Pais: Brasil
+Km da pista: 4.31 km
+Posicao: 2
+Melhor tempo: 92.18
+Velocidade media: 179.40 km/h
+Pontos: 20
+
+Corrida 2:
+Circuito: Mugello
+Pais: Italia
+Km da pista: 5.25 km
+Posicao: 1
+Melhor tempo: 87.95
+Velocidade media: 183.79 km/h
+Pontos: 25
+
+Corrida 3:
+Circuito: Jerez
+Pais: Espanha
+Km da pista: 4.42 km
+Posicao: 4
+Melhor tempo: 95.42
+Velocidade media: 175.30 km/h
+Pontos: 13
+
+Corrida 4:
+Circuito: Silverstone
+Pais: Inglaterra
+Km da pista: 5.89 km
+Posicao: 3
+Melhor tempo: 96.10
+Velocidade media: 177.90 km/h
+Pontos: 16
+
+------ DESEMPENHO ------
+Corridas disputadas: 4
+Pontos totais: 74
+Melhor posicao: 1
+Maior velocidade: 183.79 km/h
+Vitorias: 1
+Podios: 3
+Velocidade media da temporada: 179.10 km/h
+
+====== RELATORIO DO PILOTO ======
+Numero: 73
+Nome: Rafael
+Nacionalidade: Portugal
+
+------ MOTO ------
+Fabricante: Yamaha
+Modelo: YZR-M1
+Cilindrada: 1000 cc
+
+------ CORRIDAS ------
+
+Corrida 1:
+Circuito: Interlagos
+Pais: Brasil
+Km da pista: 4.31 km
+Posicao: 4
+Melhor tempo: 93.67
+Velocidade media: 176.20 km/h
+Pontos: 13
+
+Corrida 2:
+Circuito: Mugello
+Pais: Italia
+Km da pista: 5.25 km
+Posicao: 5
+Melhor tempo: 90.33
+Velocidade media: 178.40 km/h
+Pontos: 11
+
+Corrida 3:
+Circuito: Jerez
+Pais: Espanha
+Km da pista: 4.42 km
+Posicao: 1
+Melhor tempo: 93.15
+Velocidade media: 180.60 km/h
+Pontos: 25
+
+Corrida 4:
+Circuito: Silverstone
+Pais: Inglaterra
+Km da pista: 5.89 km
+Posicao: 6
+Melhor tempo: 98.42
+Velocidade media: 172.80 km/h
+Pontos: 10
+
+------ DESEMPENHO ------
+Corridas disputadas: 4
+Pontos totais: 59
+Melhor posicao: 1
+Maior velocidade: 180.60 km/h
+Vitorias: 1
+Podios: 1
+Velocidade media da temporada: 177.00 km/h
+
+====== RELATORIO DO PILOTO ======
+Numero: 67
+Nome: Felipe
+Nacionalidade: Brasil
+
+------ MOTO ------
+Fabricante: KTM
+Modelo: RC16
+Cilindrada: 1000 cc
+
+------ CORRIDAS ------
+
+Corrida 1:
+Circuito: Interlagos
+Pais: Brasil
+Km da pista: 4.31 km
+Posicao: 6
+Melhor tempo: 95.82
+Velocidade media: 173.50 km/h
+Pontos: 10
+
+Corrida 2:
+Circuito: Mugello
+Pais: Italia
+Km da pista: 5.25 km
+Posicao: 4
+Melhor tempo: 92.44
+Velocidade media: 176.90 km/h
+Pontos: 13
+
+Corrida 3:
+Circuito: Jerez
+Pais: Espanha
+Km da pista: 4.42 km
+Posicao: 5
+Melhor tempo: 96.73
+Velocidade media: 174.10 km/h
+Pontos: 11
+
+Corrida 4:
+Circuito: Silverstone
+Pais: Inglaterra
+Km da pista: 5.89 km
+Posicao: 2
+Melhor tempo: 95.37
+Velocidade media: 179.20 km/h
+Pontos: 20
+
+------ DESEMPENHO ------
+Corridas disputadas: 4
+Pontos totais: 54
+Melhor posicao: 2
+Maior velocidade: 179.20 km/h
+Vitorias: 0
+Podios: 1
+Velocidade media da temporada: 175.93 km/h
+====== CLASSIFICACAO DO CAMPEONATO ======
+1 lugar - Carlos | Numero: 12 | Pontos: 74
+2 lugar - Ian | Numero: 46 | Pontos: 72
+3 lugar - Rafael | Numero: 73 | Pontos: 59
+4 lugar - Felipe | Numero: 67 | Pontos: 54
+LIDER DA TEMPORADA
+Piloto: Carlos
+Numero: 12
+Pontos: 74
+========================================
